@@ -1,7 +1,7 @@
 <form action="" method="post">
 <table border="3" align="center" bgcolor="#00CCFF">
 <tr>
-	<td><h1 align="center">Konversi Waktu</h1></td>
+	<td><h1 align="center">Konversi Waktuaaa</h1></td>
 </tr>
 <tr>
 <td>
